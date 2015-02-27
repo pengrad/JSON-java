@@ -1,4 +1,4 @@
-package org.json;
+package com.github.pengrad.json;
 
 /*
 Copyright (c) 2008 JSON.org

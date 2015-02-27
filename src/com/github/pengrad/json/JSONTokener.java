@@ -1,4 +1,4 @@
-package org.json;
+package com.github.pengrad.json;
 
 import java.io.BufferedReader;
 import java.io.IOException;
